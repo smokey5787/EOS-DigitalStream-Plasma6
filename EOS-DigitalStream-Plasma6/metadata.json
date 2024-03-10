@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/LookAndFeel",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "michaelcurtis5787@gmail.com",
+                "Name": "Smokey"
+            }
+        ],
+        "Category": "",
+        "Description": "EndeavourOS Digital Stream Splashscreen for Plasma6",
+        "Id": "EOS-DigitalStream-Plasma6",
+        "License": "GPLv3",
+        "Name": "EOS Digital Stream Plasma6",
+        "Website": "https://github.com/smokey5787/EOS-DigitalStream-Plasma6"
+    },
+    "Keywords": "Desktop;Workspace;Appearance;Look and Feel;Logout;Lock;Suspend;Shutdown;Hibernate;",
+    "X-Plasma-APIVersion": "2"
+}
+
